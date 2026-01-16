@@ -1,9 +1,5 @@
 # Organo
 
-Organize pessoas e times em um só lugar! 🚀
-
-## 📋 Sobre o Projeto
-
 O **Organo** é uma aplicação web desenvolvida com o objetivo de **estudo e prática de desenvolvimento front-end**. A ideia é criar uma interface moderna e funcional para organizar membros de uma equipe, permitindo o cadastro de nomes e cargos.
 
 Este projeto faz parte de um exercício para reforçar conceitos de HTML, CSS e JavaScrip e React, bem como boas práticas de componentização e estrutura de código.
@@ -20,7 +16,6 @@ Este projeto faz parte de um exercício para reforçar conceitos de HTML, CSS e 
 - HTML5
 - CSS3
 - JavaScript (ou React)
-- [Adicione aqui outras tecnologias, se necessário]
 
 ## 📦 Como Executar o Projeto
 
